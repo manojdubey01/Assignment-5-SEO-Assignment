@@ -1,0 +1,76 @@
+Question Q1. What is SEO and explain the importance of SEO?
+
+Solution - 
+
+SEO stands for Search Engine Optimization. It helps you optimize your websites so that they have better 
+rankings on  Search Engines like Google, Bing, and Yahoo.
+
+The ultimate goal of SEO is to rank higher in search engine results pages for relevant keywords and phrases, 
+which can increase visibility, traffic, and ultimately revenue for the website.
+
+The importance of SEO -
+
+Meta tags are important for SEO because they provide information to search engines about the content on your 
+site and can help improve your website's visibility and ranking in search engine results pages.
+
+......................................................................................................................................
+
+Question 2: . Create an HTML document with appropriate <title> and <meta> tags for SEO optimization. Ensure the title 
+is descriptive and the meta description is concise
+
+Solution: 
+
+
+......................................................................................................................................
+
+
+Question 2: 
+
+	File names: 
+	    1. home2.index.html
+
+......................................................................................................................................
+
+Question 3: What are the Benefits of Using Meta Tags
+
+Solution: 
+
+The Benefits of using Meta tags are as follows :
+
+SEO - (Search Engine Optimization): Meta tags, such as the "description" and "keywords" tags, can help 
+improve a webpage's visibility on search engine result pages (SERPs)
+
+Social Media Sharing -  Meta tags like the Open Graph Protocol tags allow developers to control how web 
+pages are displayed when shared on social media platforms like Facebook, Twitter, and LinkedIn.
+
+Character Encoding and Language -  The meta tag specifying the character encoding (e.g., UTF-8) ensures 
+that the browser interprets the text correctly, especially when dealing with special characters or multilingual content.
+
+Viewport control - The viewport meta tag is crucial for responsive web design.
+
+B HTTP-Equiv tags -  Meta tags with http-equiv attribute (e.g., <meta http-equiv="refresh">) enable specific 
+HTTP header functionalities, like refreshing or redirecting the page after a certain time.
+
+
+......................................................................................................................................
+
+Question 4: 
+
+	File names: 
+	    1. home4.index.html
+	    2. BrowserOutput1.jpeg
+
+......................................................................................................................................
+
+
+Question 5: What is Favicon and give an illustrative example
+
+Answer:
+HTML Favicon is a small icon that represents a website and appears in the browser’s tab or bookmark bar. It is defined in HTML using the
+tag with the rel attribute set to “icon.” The Favicon is also known as the Favorite icon.
+A favicon image is displayed to the left of the page title in the browser tab
+
+	File names: 
+	    1. home5.index.html
+	    
+......................................................................................................................................
